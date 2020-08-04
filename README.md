@@ -1,2 +1,2 @@
 # BobsBurger
-Order your lovely looking burger with this cool application, utilizing React JS
+Order your lovely looking burger with this cool application, Built with React JS
